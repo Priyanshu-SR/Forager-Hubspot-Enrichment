@@ -1,0 +1,1782 @@
+[
+  {
+    "id": 60676749,
+    "role_title": "Research Engineer",
+    "start_date": "2021-11-01",
+    "end_date": "2026-07-01",
+    "duration": null,
+    "description": null,
+    "is_current": false,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 85774399,
+      "full_name": "Johannes H.",
+      "first_name": "Johannes",
+      "last_name": "H.",
+      "photo": "https://media.licdn.com/dms/image/v2/C4D03AQHy4lpUWZQhng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1622409006724?e=1794441600&t=VQ93XYD7r2-SefTiIpU-PTGxq6R9eQTJIBmEmPNcBDk&v=beta",
+      "gender": null,
+      "headline": "(inactive profile)",
+      "description": "Experienced ML research engineer with wide range of experience in recommender systems, NLP, data science, computer vision, and reinforcement learning. Expert for training complex ML systems for difficult problems and deploying them in scalable cloud-based systems.",
+      "skills": [
+        {
+          "name": "Project Management"
+        },
+        {
+          "name": "PHP"
+        },
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "User Interface Design"
+        },
+        {
+          "name": "Agile Methodologies"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Java"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Computer Science"
+        },
+        {
+          "name": "Scrum"
+        },
+        {
+          "name": "SAP"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Big Data"
+        },
+        {
+          "name": "Deep Learning"
+        },
+        {
+          "name": "User Experience"
+        },
+        {
+          "name": "Computer Vision"
+        }
+      ],
+      "location": {
+        "id": 4913,
+        "name": "barcelona, catalonia, spain",
+        "osm_locations": [
+          {
+            "id": 139,
+            "name": "Spain",
+            "place_type": "country"
+          },
+          {
+            "id": 1535,
+            "name": "Catalonia, Spain",
+            "place_type": "state"
+          },
+          {
+            "id": 3797,
+            "name": "Barcelona, Catalonia, Spain",
+            "place_type": "county"
+          },
+          {
+            "id": 8084,
+            "name": "Barcelona, Catalonia, Spain",
+            "place_type": "administrative"
+          },
+          {
+            "id": 394866,
+            "name": "Europe",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "johannesheidecke",
+        "industry": {
+          "id": 25,
+          "name": "Computer Software"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/johannesheidecke/"
+      },
+      "date_updated": "2026-10-24T12:55:08.432979Z"
+    },
+    "date_updated": "2026-10-24T12:55:10.306217Z"
+  },
+  {
+    "id": 128228203,
+    "role_title": "Software Engineer",
+    "start_date": "2021-04-01",
+    "end_date": null,
+    "duration": null,
+    "description": null,
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 165904698,
+      "full_name": "Emanuele Marchiori",
+      "first_name": "Emanuele",
+      "last_name": "Marchiori",
+      "photo": "https://media.licdn.com/dms/image/v2/D4D03AQEbKrOPvk5ctA/profile-displayphoto-shrink_100_100/B4DZdtW_hFHkAY-/0/1749886434687?e=1791417600&t=kDtz6kN36_rGmY4BFHqmqHQeqIH3a5XV6AHMaw-7Na4&v=beta",
+      "gender": null,
+      "headline": "Head of Digital - AI Developer",
+      "description": "- Sono un Digital Marketing Strategist e Brand Designer per molte aziende italiane e internazionali.\n- Sono docente Universitario di Web Marketing e Web Design.\n\nAlcune delle mie skills professionali\n\n> Expert – Web Marketing and Social Marketing Strategies\n> Expert – Facebook Ads Expert\n> Expert – Brand Identity and Brand Design\n> Expert – AI and OpenAi Integrations\n> Expert – NFT and Crypto E-commerce\n> Expert – Search Engine Optimization, Seo Copywriting, Web marketing analysis;\n> Expert – Php, AngularJS, Javascript, Jquery, CSS3, HTML5, XML, Perl, Python, WSDL, SOAP, REST\n> Expert – Create Applications for IOS (Iphone & Ipad), Android (Phone & Tablet), Windows Mobile, Objective-C, XCode, Swift, Hybrid Web Application ( Ionic, MeteorJs, Cordova, AngularJs, React Native, Titanium and Phonegap, Monaca and others frameworks, MongoDB)\n> Expert – Designing software architectures for web-based applications;\n> Expert – Developing web-based applications PHP (Framework MVC) with Mysql and PostgresSql, Ajax, Jquery, Jquery Mobile, Javascript.\n> Expert – API of the largest web portals (Facebook / Google / Amazon / Twitter / Pinterest / Ebay ecc…)\n> Expert – Photoshop, Illustrator, Indesign, Animate, AfterEffects, Adobe Suite, Affinity Suite\n> Expert – Graphics design, Logo design, Template design, Packaging design, Product design. \n> Expert – Play Piano.\n> Excellent Knowledge - Hand made painting and draw layout, characters and animations.\n> Excellent Knowledge - Create music soundtrack for movie, web and cd.\n> Good Knowledge - Java \n> Good Knowledge play Drums, Trumpet, Guitar, Harp and Accordion.",
+      "skills": [
+        {
+          "name": "SEO"
+        },
+        {
+          "name": "Social Media Marketing"
+        },
+        {
+          "name": "PHP"
+        },
+        {
+          "name": "Web Design"
+        },
+        {
+          "name": "jQuery"
+        },
+        {
+          "name": "HTML 5"
+        },
+        {
+          "name": "CSS"
+        },
+        {
+          "name": "Graphic Design"
+        },
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "Flash"
+        },
+        {
+          "name": "ActionScript"
+        },
+        {
+          "name": "Adobe Illustrator"
+        },
+        {
+          "name": "Web Marketing"
+        },
+        {
+          "name": "SEO Audits"
+        },
+        {
+          "name": "Wordpress"
+        },
+        {
+          "name": "Facebook Marketing"
+        },
+        {
+          "name": "Search Analysis"
+        },
+        {
+          "name": "Search Engine Submission"
+        },
+        {
+          "name": "Adobe Flash"
+        },
+        {
+          "name": "On-page Optimisation"
+        }
+      ],
+      "location": {
+        "id": 1053485,
+        "name": "padova (padua), italy",
+        "osm_locations": [
+          {
+            "id": 73,
+            "name": "Italy",
+            "place_type": "country"
+          },
+          {
+            "id": 1470,
+            "name": "Veneto, Italy",
+            "place_type": "state"
+          },
+          {
+            "id": 14432,
+            "name": "Padua, Veneto, Italy",
+            "place_type": "city"
+          },
+          {
+            "id": 394866,
+            "name": "Europe",
+            "place_type": "continent"
+          },
+          {
+            "id": 488301,
+            "name": "Province of Padua, Veneto, Italy",
+            "place_type": "county"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "emanuelemarchiori",
+        "industry": {
+          "id": 56,
+          "name": "Higher Education"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/emanuelemarchiori/"
+      },
+      "date_updated": "2026-09-17T21:31:37.395308Z"
+    },
+    "date_updated": "2026-09-17T21:31:39.363577Z"
+  },
+  {
+    "id": 271076073,
+    "role_title": "Software Engineer",
+    "start_date": "2021-01-01",
+    "end_date": null,
+    "duration": null,
+    "description": "Architect, build, and deploy back-end systems and services that support data generation and management platforms. \nWork closely with product managers, researchers, and other members of the engineering team to create new products around emerging research capabilities and unmet customer needs\nRapidly iterate to improve the user and developer experience while increasing scalability, performance, observability, and security",
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 337234604,
+      "full_name": "Siphesihle Maseko",
+      "first_name": "Siphesihle",
+      "last_name": "Maseko",
+      "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGefIeGDUU9rw/profile-displayphoto-scale_100_100/B4DZkGPKNFIEAc-/0/1756746265822?e=1792627200&t=-cNK8_aqFyNhe2ADoby4o1v5GeGoHkpWElFoE_ocAKc&v=beta",
+      "gender": null,
+      "headline": "Software Engineer - Backend, Human Data",
+      "description": "plays a key role in ensuring that the output of our advanced AI models is consistent with our mission to develop safe and universally beneficial AGI.\nOur team is a platform team that provides RLHF and evaluation across the OpenAI organization.\nItems such as ChatGPT, plugins, browsing, code interpreters, GPT-V, etc. conform to the human intent of human data collection.\nWith comprehensive human insights expressed as labels, we develop AI systems that match human interests.",
+      "skills": [
+        {
+          "name": "Customer Service"
+        },
+        {
+          "name": "Event Management"
+        },
+        {
+          "name": "Artificial Intelligence (AI)"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Information Management"
+        },
+        {
+          "name": "Teamwork"
+        },
+        {
+          "name": "Stock Management"
+        },
+        {
+          "name": "Bartending"
+        },
+        {
+          "name": "Cashiering"
+        },
+        {
+          "name": "Records"
+        },
+        {
+          "name": "Digitization"
+        },
+        {
+          "name": "Natural Language Processing (NLP)"
+        },
+        {
+          "name": "Stocking"
+        },
+        {
+          "name": "Sorting"
+        },
+        {
+          "name": "High Level Of Accuracy"
+        },
+        {
+          "name": "Packing"
+        }
+      ],
+      "location": {
+        "id": 20456,
+        "name": "soweto, gauteng, south africa",
+        "osm_locations": [
+          {
+            "id": 1296,
+            "name": "Gauteng, South Africa",
+            "place_type": "state"
+          },
+          {
+            "id": 1297,
+            "name": "South Africa",
+            "place_type": "country"
+          },
+          {
+            "id": 5003,
+            "name": "City of Johannesburg Metropolitan Municipality, Gauteng, South Africa",
+            "place_type": "county"
+          },
+          {
+            "id": 27071,
+            "name": "Soweto, Gauteng, South Africa",
+            "place_type": "city"
+          },
+          {
+            "id": 394867,
+            "name": "Africa",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "siphesihle-maseko-b27506191",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/siphesihle-maseko-b27506191/"
+      },
+      "date_updated": "2026-10-05T02:51:41.350473Z"
+    },
+    "date_updated": "2026-10-05T02:51:43.451664Z"
+  },
+  {
+    "id": 626240411,
+    "role_title": "Senior AI Engineer",
+    "start_date": "2021-09-01",
+    "end_date": null,
+    "duration": null,
+    "description": "Built AI-powered product and platform features that integrated ML and LLMs into core user experiences, with a focus on correctness, safety, performance, and scalable delivery in 0→1 environments. Designed, built, and deployed LLM-powered features used by production users, including conversational agents and decision-support tools.",
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 342023120,
+      "full_name": "Roger Yong",
+      "first_name": "Roger",
+      "last_name": "Yong",
+      "photo": "https://media.licdn.com/dms/image/v2/C5103AQFmvcLDTq9Vew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516470238636?e=1770854400&t=nrIy4PaU4fQKiaoYiyR0Ox1_1FoKbLOp9tC8i6P7VR8&v=beta",
+      "gender": null,
+      "headline": "Senior AI Engineer | Applied ML & Generative AI systems",
+      "description": null,
+      "skills": [
+        {
+          "name": "Construction"
+        },
+        {
+          "name": "Contract Management"
+        },
+        {
+          "name": "Project Estimation"
+        },
+        {
+          "name": "Construction Management"
+        },
+        {
+          "name": "Microsoft Office"
+        },
+        {
+          "name": "Project Management"
+        },
+        {
+          "name": "Project Planning"
+        },
+        {
+          "name": "MS Project"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "AutoCAD"
+        },
+        {
+          "name": "Logistics"
+        },
+        {
+          "name": "Engineering"
+        },
+        {
+          "name": "New Business Development"
+        },
+        {
+          "name": "Project Coordination"
+        },
+        {
+          "name": "Presentations"
+        },
+        {
+          "name": "Schedule"
+        }
+      ],
+      "location": {
+        "id": 18850,
+        "name": "united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 528,
+            "name": "United States",
+            "place_type": "place"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "roger-yong-58799550",
+        "industry": {
+          "id": 25,
+          "name": "Computer Software"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/roger-yong-58799550/"
+      },
+      "date_updated": "2026-04-07T01:29:47.086871Z"
+    },
+    "date_updated": "2026-04-07T01:29:48.274157Z"
+  },
+  {
+    "id": 701190090,
+    "role_title": "Senior Applied AI Engineer",
+    "start_date": "2023-01-01",
+    "end_date": null,
+    "duration": null,
+    "description": null,
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 48561896,
+      "full_name": "Mandy Bo",
+      "first_name": "Mandy",
+      "last_name": "Bo",
+      "photo": "https://media.licdn.com/dms/image/v2/D5603AQGe340tJ3U_yg/profile-displayphoto-scale_100_100/B56ZyC8qLDKgAg-/0/1771723466051?e=1775088000&t=DJPNmnfqR04BT_qd0yVh9ly4t289DAkeIu_dDlQ_YSE&v=beta",
+      "gender": null,
+      "headline": "Senior Applied AI Engineer",
+      "description": "Senior Applied AI Engineer with 20+ years of experience spanning distributed systems, cloud infrastructure, and large-scale machine learning deployment. Over the past decade, focused on production AI systems, LLM applications, and retrieval-augmented architectures\n\nExperienced in translating research into scalable products and optimizing AI systems for real-world performance and reliability. Based in San Francisco",
+      "skills": [
+        {
+          "name": "Distributed Systems Architecture"
+        },
+        {
+          "name": "Machine Learning System Design"
+        },
+        {
+          "name": "High-Performance Computing (HPC)"
+        },
+        {
+          "name": "Large Language Models (LLMs)"
+        },
+        {
+          "name": "Retrieval-Augmented Generation (RAG)"
+        },
+        {
+          "name": "MLOps & Model Deployment"
+        },
+        {
+          "name": "AI Infrastructure Engineering"
+        },
+        {
+          "name": "Scalable API & Microservices Architecture"
+        },
+        {
+          "name": "Cloud-Native Systems (AWS, Kubernetes)"
+        },
+        {
+          "name": "Performance Optimization & System Scaling"
+        }
+      ],
+      "location": {
+        "id": 1054005,
+        "name": "united states, france",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 256,
+            "name": "Texas, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 2663,
+            "name": "Tarrant County, Texas, United States",
+            "place_type": "county"
+          },
+          {
+            "id": 7079,
+            "name": "Arlington, Texas, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          },
+          {
+            "id": 498426,
+            "name": "France, Texas, United States",
+            "place_type": "locality"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "mandy-bo-a2a60a91",
+        "industry": {
+          "id": 65,
+          "name": "Insurance"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/mandy-bo-a2a60a91/"
+      },
+      "date_updated": "2026-04-07T07:05:49.094323Z"
+    },
+    "date_updated": "2026-04-07T07:05:50.049163Z"
+  },
+  {
+    "id": 756912728,
+    "role_title": "Applying AI: Senior Software Engineer, Android Growth",
+    "start_date": "2019-01-01",
+    "end_date": null,
+    "duration": null,
+    "description": "I will combine data analysis, product ideation, and experimentation to optimize product experiences and drive the long-term development of ChatGPT. Additionally, I will plan and deploy mobile platform infrastructure to support the development, testing, and deployment of these product experiences. Collaborating closely with research, product, design, data science, and other team members, I aim to achieve our product goals. Furthermore, I am committed to fostering a diverse and inclusive culture where everyone feels welcome, while promoting openness and challenging group thinking",
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 425550912,
+      "full_name": "Marcos Manuel Castaño",
+      "first_name": "Marcos Manuel",
+      "last_name": "Castaño",
+      "photo": null,
+      "gender": null,
+      "headline": "Index Informática",
+      "description": null,
+      "skills": [
+        {
+          "name": "Good communication skills"
+        },
+        {
+          "name": "Familiarity with various machine learning and deep learning algorithms"
+        },
+        {
+          "name": "Proficiency in programming languages such as Python, Java, C++"
+        },
+        {
+          "name": "Possessing strong logical thinking ability and problem-solving methodologies"
+        },
+        {
+          "name": "Ability to handle large-scale datasets"
+        }
+      ],
+      "location": {
+        "id": 857,
+        "name": "santa fe, santa fe, argentina",
+        "osm_locations": [
+          {
+            "id": 312,
+            "name": "Argentina",
+            "place_type": "country"
+          },
+          {
+            "id": 1082,
+            "name": "Santa Fe, Argentina",
+            "place_type": "state"
+          },
+          {
+            "id": 1805,
+            "name": "Santa Fe, Argentina",
+            "place_type": "city"
+          },
+          {
+            "id": 394869,
+            "name": "South America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "marcos-manuel-castaño-388777156",
+        "industry": {
+          "id": 126,
+          "name": "Retail"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/marcos-manuel-castaño-388777156/"
+      },
+      "date_updated": "2026-10-10T02:08:21.469200Z"
+    },
+    "date_updated": "2026-10-10T02:08:22.343561Z"
+  },
+  {
+    "id": 770362923,
+    "role_title": "Mechanical Engineer",
+    "start_date": "2021-06-01",
+    "end_date": null,
+    "duration": null,
+    "description": null,
+    "is_current": true,
+    "organization": {
+      "id": 15954396,
+      "name": "CHAT GPT",
+      "legal_name": "CHAT GPT",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": null,
+      "logo": "https://media.licdn.com/dms/image/C4D0BAQGe_0y4veYaog/company-logo_400_400/0/1674062106878?e=1682553600&t=7Td0ay6CSfIHf2tTGax3tRWxc58gzl_OqEAZH5jmSAA&v=beta",
+      "description": "Today in this fast world, we have to be updated about every opportunity.\nStay updated with ChatGPT and Generative AI news. You can find the latest tips, tricks and guides to help you get the most of Generative AI. Not an official OpenAI/ChatGPT page. Copyrights and/or trademarks of any character and/or image used belong to their respective owners",
+      "founded_date": "2014-01-01",
+      "operating_status": null,
+      "employees_range": "201 - 500",
+      "employees_amount": 17,
+      "keywords": [],
+      "location": {
+        "id": 2575,
+        "name": "pune, maharashtra, india",
+        "osm_locations": [
+          {
+            "id": 69,
+            "name": "India",
+            "place_type": "country"
+          },
+          {
+            "id": 94,
+            "name": "Maharashtra, India",
+            "place_type": "state"
+          },
+          {
+            "id": 4621,
+            "name": "Pune District, Maharashtra, India",
+            "place_type": "administrative"
+          },
+          {
+            "id": 394865,
+            "name": "Asia",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": null,
+      "linkedin_info": {
+        "public_identifier": "chatgptindia",
+        "industry": {
+          "id": 25,
+          "name": "Computer Software"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/chatgptindia/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "newyork",
+          "state": "newyork",
+          "postcode": "2312345",
+          "country": "IN",
+          "summary": "newyork, newyork, 2312345, IN"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "PUNE",
+          "state": "MAHARASHTRA",
+          "postcode": "411062",
+          "country": "IN",
+          "summary": "PUNE, MAHARASHTRA, 411062, IN"
+        }
+      ],
+      "date_updated": "2023-01-23T03:11:59.995429Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 440908697,
+      "full_name": "Selvam A",
+      "first_name": "SELVAM",
+      "last_name": "A",
+      "photo": "https://media.licdn.com/dms/image/v2/C5603AQFg2jkVx6ixqw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1624541499705?e=1791417600&t=Ch2Ob6bxfF6Bhh6W6iG9IBNwefwR-nn5W4D82bGGybo&v=beta",
+      "gender": null,
+      "headline": "Student at Sree Sakthi Engineering College",
+      "description": "I have a good academic record and good computer skills. Im a friendly person, able to deal with all kinds of people well. I am seeking a job as  mechanical engineering in any industry or organization. Thank you for your consideration, hoping to hear from you soon",
+      "skills": [
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Microsoft Office"
+        },
+        {
+          "name": "Microsoft Word"
+        },
+        {
+          "name": "Microsoft Excel"
+        },
+        {
+          "name": "Problem Solving"
+        },
+        {
+          "name": "Engineering"
+        },
+        {
+          "name": "English"
+        },
+        {
+          "name": "Teamwork"
+        },
+        {
+          "name": "Communication"
+        },
+        {
+          "name": "Interpersonal Skills"
+        }
+      ],
+      "location": {
+        "id": 3095,
+        "name": "karaikkudi, tamil nadu, india",
+        "osm_locations": [
+          {
+            "id": 69,
+            "name": "India",
+            "place_type": "country"
+          },
+          {
+            "id": 340,
+            "name": "Tamil Nadu, India",
+            "place_type": "state"
+          },
+          {
+            "id": 5451,
+            "name": "Karaikkudi, Tamil Nadu, India",
+            "place_type": "administrative"
+          },
+          {
+            "id": 5452,
+            "name": "Karaikkudi, Tamil Nadu, India",
+            "place_type": "county"
+          },
+          {
+            "id": 394865,
+            "name": "Asia",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "selvam-a-a084981aa",
+        "industry": {
+          "id": 97,
+          "name": "Non-Profit Organization Management"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/selvam-a-a084981aa/"
+      },
+      "date_updated": "2026-09-17T02:44:41.838889Z"
+    },
+    "date_updated": "2026-09-17T02:44:43.004843Z"
+  },
+  {
+    "id": 791631784,
+    "role_title": "Software Engineer",
+    "start_date": "2025-01-01",
+    "end_date": "2026-04-01",
+    "duration": null,
+    "description": null,
+    "is_current": false,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 496102392,
+      "full_name": "Jasper Johns",
+      "first_name": "Jasper",
+      "last_name": "Johns",
+      "photo": "https://media.licdn.com/dms/image/v2/C4E03AQHe6D12L4NUWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575728688192?e=1790812800&t=BynRx09bSdNHLNvj3lGhgq8DO_j7_fwQ4w9grVmI69U&v=beta",
+      "gender": null,
+      "headline": "AI",
+      "description": null,
+      "skills": [],
+      "location": {
+        "id": 55198,
+        "name": "menlo park, california, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 2787,
+            "name": "San Mateo County, California, United States",
+            "place_type": "county"
+          },
+          {
+            "id": 64007,
+            "name": "Menlo Park, California, United States",
+            "place_type": "town"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "jasper-johns-a909973",
+        "industry": {
+          "id": 25,
+          "name": "Computer Software"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/jasper-johns-a909973/"
+      },
+      "date_updated": "2026-09-11T18:51:22.204542Z"
+    },
+    "date_updated": "2026-09-11T18:51:22.788771Z"
+  },
+  {
+    "id": 842266367,
+    "role_title": "Software Engineer",
+    "start_date": "2021-10-01",
+    "end_date": null,
+    "duration": null,
+    "description": null,
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 388425439,
+      "full_name": "Rajeev N.",
+      "first_name": "Rajeev",
+      "last_name": "N.",
+      "photo": null,
+      "gender": null,
+      "headline": "Software Engineer at OpenAI",
+      "description": null,
+      "skills": [
+        {
+          "name": "Python"
+        },
+        {
+          "name": "Java"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "location": {
+        "id": 4660,
+        "name": "san francisco, california, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "rajeevnayak",
+        "industry": {
+          "id": 25,
+          "name": "Computer Software"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/rajeevnayak/"
+      },
+      "date_updated": "2026-09-19T20:39:05.267814Z"
+    },
+    "date_updated": "2026-09-19T20:39:06.101676Z"
+  },
+  {
+    "id": 850924157,
+    "role_title": "Artificial Intelligence Engineer",
+    "start_date": "2020-01-01",
+    "end_date": null,
+    "duration": null,
+    "description": "Programador de IoT e AI",
+    "is_current": true,
+    "organization": {
+      "id": 12988797,
+      "name": "OpenAI",
+      "legal_name": "OpenAI",
+      "website": "https://openai.com/",
+      "domain": "openai.com",
+      "domain_rank": 242,
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_100_100/B56ZT8EYB8HsAQ-/0/1739395793272/openai_logo?e=1787184000&t=r_b0tKpTk8PQxRdYuHIH215OGMXKSqPGvg8bdRm4u9w&v=beta",
+      "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "founded_date": "2015-01-01",
+      "operating_status": null,
+      "employees_range": "1001 - 5000",
+      "employees_amount": 10480,
+      "keywords": [
+        {
+          "id": 132,
+          "name": "Artificial Intelligence"
+        },
+        {
+          "id": 133,
+          "name": "Machine Learning"
+        }
+      ],
+      "location": {
+        "id": 213709,
+        "name": "san francisco, united states",
+        "osm_locations": [
+          {
+            "id": 10,
+            "name": "United States",
+            "place_type": "country"
+          },
+          {
+            "id": 275,
+            "name": "California, United States",
+            "place_type": "state"
+          },
+          {
+            "id": 7746,
+            "name": "San Francisco, California, United States",
+            "place_type": "city"
+          },
+          {
+            "id": 394868,
+            "name": "North America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "finance_info": {
+        "revenue": 1600000000
+      },
+      "linkedin_info": {
+        "public_identifier": "openai",
+        "industry": {
+          "id": 124,
+          "name": "Research"
+        },
+        "public_profile_url": "https://www.linkedin.com/company/openai/"
+      },
+      "addresses": [
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": null,
+          "postcode": null,
+          "country": "US",
+          "summary": "San Francisco, US"
+        },
+        {
+          "street_number": null,
+          "street_name": null,
+          "city": "San Francisco",
+          "state": "CA",
+          "postcode": "94110",
+          "country": "US",
+          "summary": "San Francisco, CA, 94110, US"
+        }
+      ],
+      "date_updated": "2026-08-03T13:30:13.145010Z",
+      "found_simple_events": [],
+      "found_funding_events": [],
+      "found_job_post_events": []
+    },
+    "person": {
+      "id": 91650107,
+      "full_name": "Raul Valdez",
+      "first_name": "Raul",
+      "last_name": "Valdez",
+      "photo": null,
+      "gender": null,
+      "headline": "Freelance Invest",
+      "description": "Igeniero Informático con experiencia en infraestructura tecnológica, administración de sistemas, redes, soporte técnico e implementación de soluciones digitales para entornos residenciales, comerciales y productivos.Mi trayectoria profesional abarca la instalación, configuración y mantenimiento de redes informáticas, servidores, sitios web y plataformas digitales, así como la administración de servicios tecnológicos orientados a la optimización de procesos y la transformación digital.Cuento con experiencia en el diseño e implementación de redes inalámbricas utilizando tecnologías Ubiquiti y TP-Link, configuración de estaciones base, enlaces punto a punto, servicios ISP/WISP, monitoreo de redes y gestión de conectividad.En el área de seguridad electrónica, realizo instalación, configuración y monitoreo de sistemas de videovigilancia, cámaras IP y CCTV, acceso remoto y administración de sistemas de seguridad.Poseo conocimientos en instalaciones eléctricas residenciales y comerciales, montaje de tableros eléctricos monofásicos y trifásicos, mantenimiento preventivo y correctivo, con enfoque en la seguridad y eficiencia energética.Me especializo en automatización, domótica e Internet de las Cosas (IoT), desarrollando soluciones inteligentes para el control y monitoreo de iluminación, seguridad, climatización, riego y otros sistemas automatizados.En el sector agropecuario, aplico tecnología para la optimización de procesos productivos mediante automatización de sistemas de riego y fertilización, monitoreo de cultivos y utilización de drones para la aplicación de agroquímicos y agricultura de precisión.También cuento con experiencia en gestión de presencia digital, administración y mantenimiento de perfiles en redes sociales, diseño gráfico para identidad visual, creación de contenido digital y soporte a estrategias de comunicación en línea.Complementariamente, poseo dominio de herramientas de productividad y ofimática, incluyendo Microsoft Word, Excel y PowerPoint, así como experiencia en gestión y edición de contenido web.Apasionado por la inteligencia artificial, la robótica, la automatización, la astronomía y las tecnologías emergentes, mantengo una formación continua orientada a la innovación tecnológica y al desarrollo de soluciones que generen valor para personas, empresas y comunidades.Áreas de interés: Inteligencia Artificial (IA), Automatización, IoT, Domótica, Agricultura de Precisión, Redes y Telecomunicaciones, Infraestructura TI, Seguridad Electrónica, Transformación Digital y Tecnologías Emergentes.",
+      "skills": [
+        {
+          "name": "Microsoft Office"
+        },
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "jQuery"
+        },
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "Photoshop"
+        },
+        {
+          "name": "Java"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "XML"
+        },
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "Linux"
+        },
+        {
+          "name": "Marketing digital"
+        },
+        {
+          "name": "Desarrollo de software"
+        },
+        {
+          "name": "Servicios de Soporte"
+        }
+      ],
+      "location": {
+        "id": 37326,
+        "name": "mar del plata, buenos aires province, argentina",
+        "osm_locations": [
+          {
+            "id": 312,
+            "name": "Argentina",
+            "place_type": "country"
+          },
+          {
+            "id": 1980,
+            "name": "Buenos Aires, Argentina",
+            "place_type": "state"
+          },
+          {
+            "id": 45454,
+            "name": "Mar del Plata, Buenos Aires, Argentina",
+            "place_type": "city"
+          },
+          {
+            "id": 394869,
+            "name": "South America",
+            "place_type": "continent"
+          }
+        ]
+      },
+      "linkedin_info": {
+        "public_identifier": "jsrlvm",
+        "industry": {
+          "id": 113,
+          "name": "Program Development"
+        },
+        "public_profile_url": "https://www.linkedin.com/in/jsrlvm/"
+      },
+      "date_updated": "2026-10-27T17:16:21.472799Z"
+    },
+    "date_updated": "2026-04-12T00:34:25.304487Z"
+  }
+]
