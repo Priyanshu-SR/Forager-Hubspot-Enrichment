@@ -5,7 +5,7 @@ from typing import Optional
 
 import requests
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException, Query, Request
+from fastapi import Body, FastAPI, HTTPException, Query, Request
 
 load_dotenv()
 
@@ -711,7 +711,19 @@ def enrich_contact(contact_id: str, force_live: bool = Query(False)):
 @app.post("/webhooks/hubspot")
 async def hubspot_webhook(
     request: Request,
-    job_title: str = Query(DEFAULT_ROLE_FILTER, description="Default job title filter when discovering new contacts"),
+    events: list[dict] | dict = Body(
+        default=[
+            {
+                "subscriptionType": "company.creation",
+                "objectId": 357017650890,
+            }
+        ],
+        description="HubSpot webhook event batch or single event object",
+    ),
+    job_title: str = Query(
+        DEFAULT_ROLE_FILTER,
+        description="Default job title filter when discovering new contacts",
+    ),
 ):
     """
     Task 4 & 5: Live Webhook Receiver for HubSpot Company & Contact creation events.
@@ -719,17 +731,10 @@ async def hubspot_webhook(
       enriches them; if none exist, discovers and creates them using job-title filtering.
     - When a contact event fires: enriches that contact.
     """
-    raw_body = await request.body()
-
     if HUBSPOT_WEBHOOK_SECRET:
         supplied_secret = request.headers.get("X-Webhook-Secret", "")
         if supplied_secret != HUBSPOT_WEBHOOK_SECRET:
             raise HTTPException(status_code=401, detail="Invalid webhook secret")
-
-    try:
-        events = json.loads(raw_body)
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Webhook body must be valid JSON")
 
     if isinstance(events, dict):
         events = [events]
