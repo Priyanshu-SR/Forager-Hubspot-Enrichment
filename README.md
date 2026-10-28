@@ -81,6 +81,6 @@ During development and inspection of the raw Forager payloads (`forager_people.j
 *Copy .env.example to .env and fill in FORAGER_API_KEY, FORAGER_ACCOUNT_ID, and HUBSPOT_ACCESS_TOKEN.*
 
 3. **Verify / create custom HubSpot properties and start the FastAPI service**:
-  ```bash
-  python setup_hubspot_properties.py
-  uvicorn main:app --reload
+   ```bash
+   python setup_hubspot_properties.py
+   uvicorn main:app --reload
